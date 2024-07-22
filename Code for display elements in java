@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class Practice{
+    public static void main(String args[]){
+       String fruits[] = {"Apple","Bananna","Pine Apple","Orange" };
+       
+       for (int i=0;i< fruits.length;i++){
+           System.out.println(fruits[i]);
+       }
+        
+    }
+}
